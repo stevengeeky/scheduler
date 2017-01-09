@@ -28,60 +28,41 @@ function init() {
 	
 	genSchedule(student, {
 		// Senior Year
-		
-		"Calculus": {
+		"AP Statistics (DC)": {
 			range: "3-4",
-			days: "m,w,f",
-			instructor: "",
-			room: ""
+			days: "m,w-f",
+			instructor: "Megan E Wright",
+			room: "BU204"
 		},
-		"History Through Art and Architecture": {
+		"French II (DC)": {
 			range: "5-6",
-			days: "m,w,f",
-			instructor: "",
-			room: ""
+			days: "m,w-f",
+			instructor: "Jennifer E Robinson",
+			room: "BU121"
 		},
-		"Physics I: General Physics 1": {
-			range: "9-10",
-			days: "m,w,f",
-			instructor: "",
-			room: ""
+		"Readings in Science and Technology (CL)": {
+			range: "7-9",
+			days: "t,r",
+			instructor: "Mark S Myers",
+			room: "BG102"
 		},
-		"AP English Language and Comp. I": {
+		"Readings in Appalachian Region History (CL)": {
+			range: "7-9",
+			days: "t,r",
+			instructor: "Mark S Myers",
+			room: "BG102"
+		},
+		"Differential Equations (DC)": {
+			range: "10-11",
+			days: "m,w,f",
+			instructor: "Franklin D Shobe",
+			room: "BU203"
+		},
+		"Linguistics (DC)": {
 			range: "11-12",
 			days: "m,w,f",
-			instructor: "",
-			room: ""
-		},
-		"The Victorian Novel": {
-			range: "15-16",
-			days: "m,w,f",
-			instructor: "",
-			room: ""
-		},
-		"Creative Writing": {
-			range: "17-18",
-			days: "m,w,f",
-			instructor: "",
-			room: ""
-		},
-		"Sr Colloquium": {
-			range: "5-7",
-			days: "t",
-			instructor: "",
-			room: ""
-		},
-		"Lost Generation Literature": {
-			range: "13-15",
-			days: "t,r",
-			instructor: "",
-			room: ""
-		},
-		"Physics I: General Physics 1 Lab": {
-			range: "17-20",
-			days: "t",
-			instructor: "",
-			room: ""
+			instructor: "Mindy Zhang",
+			room: "BU119"
 		}
 		
 		/*
