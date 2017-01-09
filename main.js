@@ -28,6 +28,12 @@ function init() {
 	
 	genSchedule(student, {
 		// Senior Year
+		"Physics II: Modern Physics Lab (XC)": {
+			range: "1-4",
+			days: "r",
+			instructor: "Hasan Fakhruddin",
+			room: "BU205"
+		},
 		"AP Statistics (DC)": {
 			range: "3-4",
 			days: "m,w-f",
@@ -53,7 +59,7 @@ function init() {
 			room: "BG102"
 		},
 		"Differential Equations (DC)": {
-			range: "10-11",
+			range: "9-10",
 			days: "m,w,f",
 			instructor: "Franklin D Shobe",
 			room: "BU203"
@@ -63,6 +69,12 @@ function init() {
 			days: "m,w,f",
 			instructor: "Mindy Zhang",
 			room: "BU119"
+		},
+		"Physics II: Modern Physics (XC)": {
+			range: "13-14",
+			days: "m,w,f",
+			instructor: "Hasan Fakhruddin",
+			room: "BU205"
 		}
 		
 		/*
